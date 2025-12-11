@@ -212,9 +212,9 @@ See [LICENSE](LICENSE)
 
 This project is completely open source and free. If you like this project, you can buy me a coffee~
 
-| Alipay | WeChat |
-|:---:|:---:|
-| <img src="docs/alipay.png" width="200" /> | <img src="docs/wechat.png" width="200" /> |
+| Alipay | WeChat | QQ Group |
+|:---:|:---:|:---:|
+| <img src="docs/alipay.png" width="200" /> | <img src="docs/wechat.png" width="200" /> | <img src="docs/qq_group.png" width="200" /> |
 
 ## 💬 Community
 

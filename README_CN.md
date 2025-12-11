@@ -210,9 +210,9 @@ make
 
 本项目完全开源免费，如果你喜欢这个项目的话，也可以请我喝一杯咖啡~
 
-| 支付宝 | 微信赞赏 |
-|:---:|:---:|
-| <img src="docs/alipay.png" width="200" /> | <img src="docs/wechat.png" width="200" /> |
+| 支付宝 | 微信赞赏 | QQ群 |
+|:---:|:---:|:---:|
+| <img src="docs/alipay.png" width="200" /> | <img src="docs/wechat.png" width="200" /> | <img src="docs/qq_group.png" width="200" /> |
 
 ## 💬 社区讨论
 
